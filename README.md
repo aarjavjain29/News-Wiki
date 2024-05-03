@@ -66,4 +66,4 @@ To get started with this project, follow these steps:
         </table>
 
 # Contributing
-Contributions are welcome and encouraged! If you find a bug, have a suggestion for improvement, or want to add a feature, feel free to submit a pull request or open an issue.
+If anyone wants to contribute feel free to submit a pull request or open an issue.
