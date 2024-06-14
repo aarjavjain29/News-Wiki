@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
                     Countries
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/03.png"   width="200">
+                    <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/03.jpg"   width="200">
                 </td>
             </tr>
             <tr>
@@ -43,7 +43,7 @@ To get started with this project, follow these steps:
                     News Channels 
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/05.png"   width="200">
+                    <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/04.jpg"   width="200">
                 </td>
             </tr>
         </table>
