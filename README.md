@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
                     Light Mode
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/02.png"   width="200">
+                    <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/02.jpg"   width="200">
                 </td>
                  <td  style="border: 1px solid black ;">
                     Countries
@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
                     Category
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/04.png"   width="200">
+                    <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/05.jpg"   width="200">
                 </td>
                <td  style="border: 1px solid black ;">
                     News Channels 
