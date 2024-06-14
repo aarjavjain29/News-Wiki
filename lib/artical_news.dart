@@ -14,7 +14,7 @@ class _ArticalNewsState extends State<ArticalNews> {
   final Completer<WebViewController> _completer =
       Completer<WebViewController>();
   late bool _isLoadingPage;
-  
+
   @override
   void initState() {
     super.initState();
@@ -24,7 +24,12 @@ class _ArticalNewsState extends State<ArticalNews> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(centerTitle: true, title: const Text('News',),),
+      appBar: AppBar(
+        centerTitle: true,
+        title: const Text(
+          'News',
+        ),
+      ),
       body: Stack(
         children: [
           WebView(
@@ -44,7 +49,7 @@ class _ArticalNewsState extends State<ArticalNews> {
               ),
             )
           else
-            SizedBox.shrink()
+            const SizedBox.shrink()
         ],
       ),
     );
