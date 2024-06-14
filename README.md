@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
                     <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/02.jpg"   width="200">
                 </td>
                  <td  style="border: 1px solid black ;">
-                    Countries
+                    News Channel
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/03.jpg"   width="200">
@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
                     <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/05.jpg"   width="200">
                 </td>
                <td  style="border: 1px solid black ;">
-                    News Channels 
+                    Countries 
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/aarjavjain29/News-Wiki/blob/main/ScreenShots/04.jpg"   width="200">
